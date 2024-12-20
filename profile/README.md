@@ -13,10 +13,10 @@
 
 |           Name            |          Role   |
 |:-------------------------:|:------------------------:|
-| M.Riki Hidayat      | Backend        |
-| Panji Gunawan| Backend      | 
-| M.Putra Pamungkas       | Frontend        | 
-| Ilham Pratama Kusuma              | Frontend         | 
+| M.Riki Hidayat      | Fullstack Developer        |
+| Panji Gunawan| Backend Developer / QA      | 
+| M.Putra Pamungkas       | Frontend Developer  / UI UX        | 
+| Ilham Pratama Kusuma              | Frontend Developer      | 
 
 </div>
 
