@@ -33,9 +33,9 @@
 | Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
 ## One Step Store User Interface
-**COMING SOON**
+[FIGMA]https://www.figma.com/design/y3D7HXcGFchncbSXH0HcBD/Final-Project-Front-End?node-id=0-1&t=MXZVxxpsX8z5gIoX-1
 
 </details>
 
 ## Web deployment
-**COMING SOON**
+[KLIK]https://one-step-store1.et.r.appspot.com/
